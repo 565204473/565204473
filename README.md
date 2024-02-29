@@ -7,7 +7,7 @@
 - 😊 制作过MOBA ,SLG,MMORPG,卡牌，回合制（TBS）,传奇等游戏。  
   
 
--  😍 擅长使用Unity ，Cocos，laya，Egret，Android Studio，xcode等工具开发游戏  
+-  😍 擅长使用Unity ，Cocos，laya，Egret，Android Studio，xcode，TeamCity等工具开发游戏  
   
 
 - 😏 掌握 c#，c++,java,ts,actionScript,swift,objective-C,javascript,lua等编程语言  
